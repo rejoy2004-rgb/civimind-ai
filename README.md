@@ -1,5 +1,10 @@
 # 🚀 CiviMind AI
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/faadf18f-1e5e-4289-9ed3-61e45693387d
+
+
 ### AI-Powered Hyperlocal Civic Intelligence Platform
 
 > Empowering citizens and local authorities through AI-driven issue reporting, prioritization, and civic analytics.
