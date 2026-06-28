@@ -286,6 +286,28 @@ Used for:
 
 ---
 
+# 📸 Application Screenshots
+
+## 🏠 Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+## 📝 Report Issue
+
+![Report Issue](screenshots/report-issue.png)
+
+## 🤖 AI Analysis
+
+![AI Analysis](screenshots/ai-analysis.png)
+
+## 🗺️ Issue Map
+
+![Issue Map](screenshots/issue-map.png)
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
 # 🚀 Live Application
 
 ### Production Deployment
