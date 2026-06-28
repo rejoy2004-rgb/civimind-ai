@@ -1,7 +1,3 @@
-Based on your actual project structure (React + TypeScript + Vite + Express + Drizzle + Google Gemini + Maps), and considering this is a **hackathon submission**, I would use a README like this:
-
----
-
 # 🚀 CiviMind AI
 
 ### AI-Powered Hyperlocal Civic Intelligence Platform
