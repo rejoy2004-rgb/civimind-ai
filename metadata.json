@@ -1,0 +1,6 @@
+{
+  "name": "CiviMind AI",
+  "description": "An advanced, gamified civic issue intelligence and analytics platform utilizing AI-powered classification, status mapping, and community-driven verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
